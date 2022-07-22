@@ -1,5 +1,5 @@
-print("Hello, world!")
-print("This is my first commit")
+#print("Hello, world!")
+#print("This is my first commit")
 
 # This program adds two numbers
 
